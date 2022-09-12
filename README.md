@@ -1,6 +1,6 @@
 # homie
 
-A web app predicts the prices of the apartment situated at USA.
+A web app that predicts the prices of the apartment situated at USA.
 
 ## Tech Used
 
