@@ -1,0 +1,2 @@
+language = "bash"
+run = "cd webapp; pip install -r requirements.txt; python3 app.py"
